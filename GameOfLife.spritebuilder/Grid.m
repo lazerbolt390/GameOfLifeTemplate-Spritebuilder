@@ -80,8 +80,9 @@ static const int GRID_COLUMNS = 10;
     
     return _gridArray[row][column];
 
+
+
+ 
 }
-
-
 
 @end
