@@ -10,6 +10,6 @@
 
 @interface MainScene : CCNode
 
--(void) evolveStep;
+-(void)evolveStep;
 
 @end
