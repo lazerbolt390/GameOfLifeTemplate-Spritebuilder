@@ -492,7 +492,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>ccbResources/ccbButtonHighlighted.png</string>
+							<string>GameOfLifeAssets/Buttons/pause-pressed.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -715,7 +715,7 @@
 						<key>value</key>
 						<array>
 							<real>46</real>
-							<real>284</real>
+							<real>285</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -820,7 +820,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>ccbResources/ccbButtonHighlighted.png</string>
+							<string>GameOfLifeAssets/Buttons/play-pressed.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -863,7 +863,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>ccbResources/ccbButtonNormal.png</string>
+							<string>GameOfLifeAssets/Buttons/play-pressed.png</string>
 						</array>
 					</dict>
 					<dict>
