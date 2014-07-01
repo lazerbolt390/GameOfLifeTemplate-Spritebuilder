@@ -14,5 +14,6 @@
 
 
 -(void) evolveStep;
+-(void)countNeighbors;
 
 @end
