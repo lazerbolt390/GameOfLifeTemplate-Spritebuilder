@@ -10,5 +10,5 @@
 
 @interface MainScene : CCNode
 
-
 @end
+
