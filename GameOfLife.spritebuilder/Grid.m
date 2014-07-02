@@ -100,7 +100,6 @@ static const int GRID_COLUMNS = 10;
 
 
 -(void) countNeighbors {
-    
     // iterate through the rows
     // note that NSArray has a method 'count' that will return the number of elements in the array
     for (int i = 0; i < [_gridArray count]; i++)
@@ -138,21 +137,19 @@ static const int GRID_COLUMNS = 10;
                 }
             }
         }
-    }
     
 }
 
 
-- (BOOL)isIndexValidForX:(int)x andY:(int)y
-{
-    BOOL isIndexValid = YES;
-    if(x < 0 || y < 0 || x >= GRID_ROWS || y >= GRID_COLUMNS)
+    - (BOOL)isIndexValidForX:(int)x andY:(int)y
     {
-        isIndexValid = NO;
+        BOOL isIndexValid = YES;
+        if(x < 0 || y < 0 || x >= GRID_ROWS || y >= GRID_COLUMNS)
+        {
+            isIndexValid = NO;
+        }
+        return isIndexValid;
     }
-    return isIndexValid;
-}
-
 
 
 -(void) updateCreatures {
