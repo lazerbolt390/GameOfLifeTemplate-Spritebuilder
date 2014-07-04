@@ -131,7 +131,7 @@
 				<key>displayName</key>
 				<string>background</string>
 				<key>memberVarAssignmentName</key>
-				<string>-grid</string>
+				<string></string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -207,6 +207,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1436,7 +1438,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>54</real>
+							<real>55</real>
 							<real>176</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2144,8 +2146,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
