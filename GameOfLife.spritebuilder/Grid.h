@@ -2,7 +2,7 @@
 //  Grid.h
 //  GameOfLife
 //
-//  Created by WAVEON on 6/29/14.
+//  Created by Manish R on 6/29/14.
 //  Copyright (c) 2014 Apportable. All rights reserved.
 //
 
