@@ -25,7 +25,7 @@ static const int GRID_COLUMNS = 10;
 }
 
 - (void)setupGrid{
-    //divides the grid's size by the number of columns/rows
+    //divide the grid's size by the number of columns/rows
     //to deterimine the right width and height of each cell
     
     _cellWidth = self.contentSize.width / GRID_COLUMNS;
